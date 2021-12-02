@@ -1,12 +1,15 @@
 # 💻 TasksManagement
+O TasksManagement é um backend para gerenciar suas tarefas do dia a dia.
 
 ## 🚧 Objetivo do Projeto
+Este projeto foi desenvolvido com o objetivo de aprofundar o conhecimento em Kotlin com Spring Boot. Com este projeto me foi proporcionado não apenas aprender mas também botar em prática conceitos envolvendo o Kotlin, como criar um projeto com kotlin e spring boot, autenticação com JWT, conexão com um banco de dados relacional, boas praticas, entre outros conceitos.
 
+O projeto foi desenvolvido com base nos cursos do canal no youtube [Devaria](https://www.youtube.com/c/Devaria/).
 
 ## 🧪 Tecnologias
 As principais tecnologias utilizadas foram:
-- [Kotlin]()
-- [MongoDB]()
+- [Kotlin](https://kotlinlang.org/)
+- [MySQL]()
 
 
 ## 🛠️ Configurando o ambiente
