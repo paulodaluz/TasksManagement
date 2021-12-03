@@ -9,7 +9,7 @@ O projeto foi desenvolvido com base nos cursos do canal no youtube [Devaria](htt
 ## 🧪 Tecnologias
 As principais tecnologias utilizadas foram:
 - [Kotlin](https://kotlinlang.org/)
-- [MySQL]()
+- [MySQL](https://www.mysql.com/)
 
 
 ## 🛠️ Configurando o ambiente
