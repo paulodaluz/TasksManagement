@@ -6,6 +6,12 @@ Este projeto foi desenvolvido com o objetivo de aprofundar o conhecimento em Kot
 
 O projeto foi desenvolvido com base nos cursos do canal no youtube [Devaria](https://www.youtube.com/c/Devaria/).
 
+- [x] [Apresentação do projeto backend Kotlin](https://www.youtube.com/watch?v=qS9uNqGyekU)
+
+- [x] [Autenticando nossa API Kotlin com JWT](https://www.youtube.com/watch?v=ILqWuImubC8)
+
+- [x] [Conectando uma API Kotlin com banco de dados](https://www.youtube.com/watch?v=HB2uq5gqzAI) (até 1h e 17 min)
+
 ## 🧪 Tecnologias
 As principais tecnologias utilizadas foram:
 - [Kotlin](https://kotlinlang.org/)
